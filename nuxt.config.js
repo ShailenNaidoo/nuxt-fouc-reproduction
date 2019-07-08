@@ -24,8 +24,8 @@ export default {
   ** Global CSS
   */
   css: [
-    // '@/assets/styles/app.styl'
-    'vuetify/dist/vuetify.css'
+    '@/assets/styles/app.styl'
+    // 'vuetify/dist/vuetify.css'
     // '~/assets/styles/app.styl'
   ],
   /*
