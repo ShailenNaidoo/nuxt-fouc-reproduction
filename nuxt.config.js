@@ -11,6 +11,10 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  css: [
+    '@/assets/styles/app.styl',
+    // 'vuetify/dist/vuetify.css'
+  ],
   loading: { color: '#fff' },
   plugins: [
   ],
