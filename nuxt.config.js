@@ -24,6 +24,7 @@ export default {
   ** Global CSS
   */
   css: [
+    // '@/assets/styles/app.styl'
     'vuetify/dist/vuetify.css'
     // '~/assets/styles/app.styl'
   ],
@@ -31,7 +32,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '@plugins/vuetify'
+    '@/plugins/vuetify'
   ],
   /*
   ** Nuxt.js modules
