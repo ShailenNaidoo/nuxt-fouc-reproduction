@@ -26,7 +26,6 @@ export default {
   css: [
     '@/assets/styles/app.styl'
     // 'vuetify/dist/vuetify.css'
-    // '~/assets/styles/app.styl'
   ],
   /*
   ** Plugins to load before mounting the App
