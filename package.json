@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "vuetify": "^1.5.16"
   },
   "devDependencies": {
     "@nuxt/typescript": "^2.8.1",
@@ -31,6 +32,9 @@
     "eslint-plugin-standard": ">=4.0.0",
     "eslint-plugin-vue": "^5.2.2",
     "nodemon": "^1.18.9",
-    "ts-node": "^8.3.0"
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "ts-node": "^8.3.0",
+    "vuetify-loader": "^1.2.2"
   }
 }
